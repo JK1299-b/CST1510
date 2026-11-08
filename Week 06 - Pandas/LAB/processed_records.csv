@@ -1,0 +1,6 @@
+label,value,limit,percent,status
+Ashley,93,100,93.0,WARNING
+Ben,84,100,84.0,OK
+Tim,75,100,75.0,OK
+Lucy,61,100,61.0,OK
+Nolan,150,100,150.0,OVER LIMIT
