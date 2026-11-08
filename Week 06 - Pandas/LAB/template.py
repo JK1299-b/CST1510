@@ -66,6 +66,7 @@ import matplotlib.pyplot as plt
 status_counts.plot(kind="bar", title="Counts per Status")
 plt.tight_layout()
 plt.savefig("Week 06 - Pandas/LAB/status_chart.png")
+plt.show()
 
 
 
